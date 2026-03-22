@@ -1,152 +1,152 @@
-id_movimiento,id_inventario,tipo_movimiento,fecha,cantidad_movimiento
-salida,INV5019,salida,,30
-entrada,INV5110,entrada,,44
-entrada,INV5152,entrada,,55
-traslado,INV5133,traslado,,17
-traslado,INV5115,traslado,,39
-ajuste,INV5093,ajuste,,48
-entrada,INV5119,entrada,,3 
-salida,INV5069,salida,,75
-ajuste,INV5064,ajuste,,74
-ajuste,INV5087,ajuste,,59
-salida,INV5132,salida,,32
-ajuste,INV5140,ajuste,,63
-traslado,INV5085,traslado,,52
-traslado,INV9999,traslado,,
-salida,INV5150,salida,,28
-traslado,INV5084,traslado,,8
-salida,INV5002,salida,,31
-traslado,INV5044,traslado,,69
-entrada,INV5150,entrada,,37
-ajuste,INV5123,ajuste,,33
-ajuste,INV5027,ajuste,,43
-ajuste,INV9999,ajuste,,23
-ajuste,INV5028,ajuste,,41
-entrada,INV5101,entrada,,18
-traslado,INV5077,traslado,,14
-traslado,INV5155,traslado,,16 
-salida,INV5003,salida,,67
-entrada,INV5129,entrada,,13
-ajuste,INV5088,ajuste,,19
-traslado,INV5094,traslado,,28
-salida,INV5014,salida,,69
-salida,INV5096,salida,,8 
-ajuste,INV5143,ajuste,,73
-traslado,INV5101,traslado,,18
-ajuste,INV5107,ajuste,,20
-salida,INV5033,salida,,45 
-traslado,INV5126,traslado,,59
-entrada,INV5133,entrada,,26
-traslado,INV5102,traslado,,66
-entrada,,entrada,,38
-salida,,salida,2024-01-10,6
-ajuste,INV5148,ajuste,,3
-ajuste,INV5098,ajuste,,21
-ajuste,INV5156,ajuste,,49
-entrada,INV5001,entrada,,22
-ajuste,INV5096,ajuste,,45
-entrada,INV5043,entrada,,32
-ajuste,INV5097,ajuste,,48
-entrada,INV5107,entrada,,30
-entrada,INV5047,entrada,,27
-entrada,INV5126,entrada,,12
-ajuste,INV5039,ajuste,,79
-entrada,INV5071,entrada,,50
-salida,INV5141,salida,,67
-traslado,INV5077,traslado,,40
-entrada,INV5001,entrada,,10
-salida,INV5003,salida,,3
-ajuste,,ajuste,2025-04-01,50
-traslado,INV5008,traslado,,39
-ajuste,INV5159,ajuste,,54
-salida,INV5024,salida,,70
-entrada,INV5014,entrada,,79
-ajuste,INV5070,ajuste,,58
-traslado,INV5151,traslado,,13
-entrada,INV5069,entrada,,75
-entrada,INV5111,entrada,,68
-salida,INV5059,salida,,53
-salida,INV5030,salida,,34
-entrada,INV5148,entrada,,78
-ajuste,INV5059,ajuste,,59
-traslado,INV5074,traslado,,58
-entrada,INV5101,entrada,,12
-ajuste,,ajuste,,
-entrada,INV5151,entrada,,14
-ajuste,INV5024,ajuste,,19
-salida,INV5108,salida,,76
-salida,INV5107,salida,,67
-traslado,INV5155,traslado,,54
-salida,INV5017,salida,2024-01-11,
-traslado,INV5056,traslado,,1
-entrada,INV5097,entrada,,12
-salida,INV5066,salida,,68
-entrada,INV5082,entrada,,3
-ajuste,INV5075,ajuste,,6
-salida,INV5090,salida,,1
-traslado,INV5039,traslado,,3
-traslado,INV5137,traslado,,18
-ajuste,INV5104,ajuste,,26
-ajuste,INV5075,ajuste,,70
-salida,INV5079,salida,,26
-entrada,INV5152,entrada,,62
-entrada,INV5032,entrada,,69
-ajuste,INV5127,ajuste,,48
-traslado,INV5144,traslado,,28
-ajuste,INV5146,ajuste,,57
-ajuste,INV5053,ajuste,,37
-ajuste,INV5113,ajuste,,51
-traslado,INV5082,traslado,,73
-salida,INV5000,salida,,7
-entrada,INV5143,entrada,,51
-entrada,INV5151,entrada,,58
-entrada,INV5151,entrada,,9
-entrada,INV5100,entrada,,33
-ajuste,INV5124,ajuste,,65
-traslado,INV5094,traslado,,8
-entrada,INV5064,entrada,,48
-traslado,INV5112,traslado,,63
-traslado,INV5139,traslado,,73
-salida,INV5031,salida,,21
-traslado,INV5001,traslado,,75
-entrada,INV5137,entrada,,20
-traslado,INV5123,traslado,,12
-traslado,INV5021,traslado,,50
-salida,INV5072,salida,,79
-entrada,INV5054,entrada,,17
-ajuste,INV5029,ajuste,,57
-salida,INV5088,salida,,69
-entrada,INV9999,entrada,,79
-ajuste,,ajuste,2024-06-11,51
-salida,INV5019,salida,,67
-entrada,INV5112,entrada,,3
-ajuste,INV5034,ajuste,,79
-entrada,INV5028,entrada,,48
-salida,INV5109,salida,,72
-traslado,INV5115,traslado,,5
-ajuste,INV5066,ajuste,,16
-traslado,INV5031,traslado,,53
-entrada,INV5057,entrada,,17
-traslado,INV5077,traslado,,39
-traslado,INV5071,traslado,,21
-traslado,INV5059,traslado,,46
-traslado,INV5017,traslado,,79
-entrada,INV5049,entrada,,35
-traslado,INV5042,traslado,,26
-traslado,INV5084,traslado,,35
-traslado,INV5023,traslado,,15
-ajuste,INV5004,ajuste,,67
-ajuste,INV5157,ajuste,,41
-ajuste,,ajuste,2024-08-02,52
-traslado,INV5102,traslado,,58 
-traslado,INV5153,traslado,,30 
-entrada,INV5012,entrada,,58
-ajuste,INV5020,ajuste,,75
-entrada,INV5097,entrada,,31
-ajuste,INV5039,ajuste,,76
-entrada,INV9999,entrada,,25
-entrada,INV5146,entrada,,77
-traslado,INV5139,traslado,,30
-ajuste,INV5093,ajuste,,46
-entrada,INV5107,entrada,,
-traslado,INV5032,traslado,,13
+id_movimiento,id_inventario,tipo_movimiento,fecha,cantidad_movimiento,motivo
+MOV9002,INV5019,salida,,30,Fecha inválida o vacía
+MOV9003,INV5110,entrada,,44,Fecha inválida o vacía
+MOV9004,INV5152,entrada,,55,Fecha inválida o vacía
+MOV9005,INV5133,traslado,,17,Fecha inválida o vacía
+MOV9006,INV5115,traslado,,39,Fecha inválida o vacía
+MOV9007,INV5093,ajuste,,48,Fecha inválida o vacía
+MOV9008,INV5119,entrada,,3 ,Fecha inválida o vacía
+MOV9011,INV5069,salida,,75,Fecha inválida o vacía
+MOV9012,INV5064,ajuste,,74,Fecha inválida o vacía
+MOV9018,INV5087,ajuste,,59,Fecha inválida o vacía
+MOV9019,INV5132,salida,,32,Fecha inválida o vacía
+MOV9020,INV5140,ajuste,,63,Fecha inválida o vacía
+MOV9021,INV5085,traslado,,52,Fecha inválida o vacía
+MOV9022,INV9999,traslado,,,"Fecha inválida o vacía, Cantidad de movimiento vacía"
+MOV9024,INV5150,salida,,28,Fecha inválida o vacía
+MOV9026,INV5084,traslado,,8,Fecha inválida o vacía
+MOV9027,INV5002,salida,,31,Fecha inválida o vacía
+MOV9031,INV5044,traslado,,69,Fecha inválida o vacía
+MOV9032,INV5150,entrada,,37,Fecha inválida o vacía
+MOV9034,INV5123,ajuste,,33,Fecha inválida o vacía
+MOV9035,INV5027,ajuste,,43,Fecha inválida o vacía
+MOV9036,INV9999,ajuste,,23,Fecha inválida o vacía
+MOV9038,INV5028,ajuste,,41,Fecha inválida o vacía
+MOV9039,INV5101,entrada,,18,Fecha inválida o vacía
+MOV9040,INV5077,traslado,,14,Fecha inválida o vacía
+MOV9041,INV5155,traslado,,16 ,Fecha inválida o vacía
+MOV9043,INV5003,salida,,67,Fecha inválida o vacía
+MOV9044,INV5129,entrada,,13,Fecha inválida o vacía
+MOV9048,INV5088,ajuste,,19,Fecha inválida o vacía
+MOV9049,INV5094,traslado,,28,Fecha inválida o vacía
+MOV9050,INV5014,salida,,69,Fecha inválida o vacía
+MOV9051,INV5096,salida,,8 ,Fecha inválida o vacía
+MOV9053,INV5143,ajuste,,73,Fecha inválida o vacía
+MOV9054,INV5101,traslado,,18,Fecha inválida o vacía
+MOV9055,INV5107,ajuste,,20,Fecha inválida o vacía
+MOV9056,INV5033,salida,,45 ,Fecha inválida o vacía
+MOV9057,INV5126,traslado,,59,Fecha inválida o vacía
+MOV9058,INV5133,entrada,,26,Fecha inválida o vacía
+MOV9059,INV5102,traslado,,66,Fecha inválida o vacía
+MOV9060,,entrada,,38,"No cuenta con id_inventario, Fecha inválida o vacía"
+MOV9061,,salida,2024-01-10,6,No cuenta con id_inventario
+MOV9062,INV5148,ajuste,,3,Fecha inválida o vacía
+MOV9063,INV5098,ajuste,,21,Fecha inválida o vacía
+MOV9064,INV5156,ajuste,,49,Fecha inválida o vacía
+MOV9065,INV5001,entrada,,22,Fecha inválida o vacía
+MOV9066,INV5096,ajuste,,45,Fecha inválida o vacía
+MOV9068,INV5043,entrada,,32,Fecha inválida o vacía
+MOV9070,INV5097,ajuste,,48,Fecha inválida o vacía
+MOV9072,INV5107,entrada,,30,Fecha inválida o vacía
+MOV9074,INV5047,entrada,,27,Fecha inválida o vacía
+MOV9075,INV5126,entrada,,12,Fecha inválida o vacía
+MOV9077,INV5039,ajuste,,79,Fecha inválida o vacía
+MOV9079,INV5071,entrada,,50,Fecha inválida o vacía
+MOV9080,INV5141,salida,,67,Fecha inválida o vacía
+MOV9083,INV5077,traslado,,40,Fecha inválida o vacía
+MOV9084,INV5001,entrada,,10,Fecha inválida o vacía
+MOV9086,INV5003,salida,,3,Fecha inválida o vacía
+MOV9087,,ajuste,2025-04-01,50,No cuenta con id_inventario
+MOV9088,INV5008,traslado,,39,Fecha inválida o vacía
+MOV9091,INV5159,ajuste,,54,Fecha inválida o vacía
+MOV9095,INV5024,salida,,70,Fecha inválida o vacía
+MOV9096,INV5014,entrada,,79,Fecha inválida o vacía
+MOV9098,INV5070,ajuste,,58,Fecha inválida o vacía
+MOV9099,INV5151,traslado,,13,Fecha inválida o vacía
+MOV9100,INV5069,entrada,,75,Fecha inválida o vacía
+MOV9101,INV5111,entrada,,68,Fecha inválida o vacía
+MOV9102,INV5059,salida,,53,Fecha inválida o vacía
+MOV9103,INV5030,salida,,34,Fecha inválida o vacía
+MOV9104,INV5148,entrada,,78,Fecha inválida o vacía
+MOV9105,INV5059,ajuste,,59,Fecha inválida o vacía
+MOV9106,INV5074,traslado,,58,Fecha inválida o vacía
+MOV9108,INV5101,entrada,,12,Fecha inválida o vacía
+MOV9110,,ajuste,,,"No cuenta con id_inventario, Fecha inválida o vacía, Cantidad de movimiento vacía"
+MOV9111,INV5151,entrada,,14,Fecha inválida o vacía
+MOV9112,INV5024,ajuste,,19,Fecha inválida o vacía
+MOV9113,INV5108,salida,,76,Fecha inválida o vacía
+MOV9114,INV5107,salida,,67,Fecha inválida o vacía
+MOV9115,INV5155,traslado,,54,Fecha inválida o vacía
+MOV9117,INV5017,salida,2024-01-11,,Cantidad de movimiento vacía
+MOV9118,INV5056,traslado,,1,Fecha inválida o vacía
+MOV9119,INV5097,entrada,,12,Fecha inválida o vacía
+MOV9120,INV5066,salida,,68,Fecha inválida o vacía
+MOV9123,INV5082,entrada,,3,Fecha inválida o vacía
+MOV9124,INV5075,ajuste,,6,Fecha inválida o vacía
+MOV9125,INV5090,salida,,1,Fecha inválida o vacía
+MOV9128,INV5039,traslado,,3,Fecha inválida o vacía
+MOV9130,INV5137,traslado,,18,Fecha inválida o vacía
+MOV9131,INV5104,ajuste,,26,Fecha inválida o vacía
+MOV9134,INV5075,ajuste,,70,Fecha inválida o vacía
+MOV9135,INV5079,salida,,26,Fecha inválida o vacía
+MOV9136,INV5152,entrada,,62,Fecha inválida o vacía
+MOV9137,INV5032,entrada,,69,Fecha inválida o vacía
+MOV9140,INV5127,ajuste,,48,Fecha inválida o vacía
+MOV9141,INV5144,traslado,,28,Fecha inválida o vacía
+MOV9142,INV5146,ajuste,,57,Fecha inválida o vacía
+MOV9143,INV5053,ajuste,,37,Fecha inválida o vacía
+MOV9144,INV5113,ajuste,,51,Fecha inválida o vacía
+MOV9145,INV5082,traslado,,73,Fecha inválida o vacía
+MOV9147,INV5000,salida,,7,Fecha inválida o vacía
+MOV9148,INV5143,entrada,,51,Fecha inválida o vacía
+MOV9149,INV5151,entrada,,58,Fecha inválida o vacía
+MOV9150,INV5151,entrada,,9,Fecha inválida o vacía
+MOV9151,INV5100,entrada,,33,Fecha inválida o vacía
+MOV9152,INV5124,ajuste,,65,Fecha inválida o vacía
+MOV9153,INV5094,traslado,,8,Fecha inválida o vacía
+MOV9155,INV5064,entrada,,48,Fecha inválida o vacía
+MOV9156,INV5112,traslado,,63,Fecha inválida o vacía
+MOV9157,INV5139,traslado,,73,Fecha inválida o vacía
+MOV9161,INV5031,salida,,21,Fecha inválida o vacía
+MOV9162,INV5001,traslado,,75,Fecha inválida o vacía
+MOV9163,INV5137,entrada,,20,Fecha inválida o vacía
+MOV9164,INV5123,traslado,,12,Fecha inválida o vacía
+MOV9165,INV5021,traslado,,50,Fecha inválida o vacía
+MOV9166,INV5072,salida,,79,Fecha inválida o vacía
+MOV9168,INV5054,entrada,,17,Fecha inválida o vacía
+MOV9169,INV5029,ajuste,,57,Fecha inválida o vacía
+MOV9170,INV5088,salida,,69,Fecha inválida o vacía
+MOV9171,INV9999,entrada,,79,Fecha inválida o vacía
+MOV9172,,ajuste,2024-06-11,51,No cuenta con id_inventario
+MOV9173,INV5019,salida,,67,Fecha inválida o vacía
+MOV9174,INV5112,entrada,,3,Fecha inválida o vacía
+MOV9175,INV5034,ajuste,,79,Fecha inválida o vacía
+MOV9176,INV5028,entrada,,48,Fecha inválida o vacía
+MOV9177,INV5109,salida,,72,Fecha inválida o vacía
+MOV9179,INV5115,traslado,,5,Fecha inválida o vacía
+MOV9180,INV5066,ajuste,,16,Fecha inválida o vacía
+MOV9181,INV5031,traslado,,53,Fecha inválida o vacía
+MOV9182,INV5057,entrada,,17,Fecha inválida o vacía
+MOV9183,INV5077,traslado,,39,Fecha inválida o vacía
+MOV9186,INV5071,traslado,,21,Fecha inválida o vacía
+MOV9188,INV5059,traslado,,46,Fecha inválida o vacía
+MOV9190,INV5017,traslado,,79,Fecha inválida o vacía
+MOV9191,INV5049,entrada,,35,Fecha inválida o vacía
+MOV9192,INV5042,traslado,,26,Fecha inválida o vacía
+MOV9193,INV5084,traslado,,35,Fecha inválida o vacía
+MOV9195,INV5023,traslado,,15,Fecha inválida o vacía
+MOV9196,INV5004,ajuste,,67,Fecha inválida o vacía
+MOV9197,INV5157,ajuste,,41,Fecha inválida o vacía
+MOV9200,,ajuste,2024-08-02,52,No cuenta con id_inventario
+MOV9201,INV5102,traslado,,58 ,Fecha inválida o vacía
+MOV9203,INV5153,traslado,,30 ,Fecha inválida o vacía
+MOV9204,INV5012,entrada,,58,Fecha inválida o vacía
+MOV9205,INV5020,ajuste,,75,Fecha inválida o vacía
+MOV9207,INV5097,entrada,,31,Fecha inválida o vacía
+MOV9208,INV5039,ajuste,,76,Fecha inválida o vacía
+MOV9209,INV9999,entrada,,25,Fecha inválida o vacía
+MOV9212,INV5146,entrada,,77,Fecha inválida o vacía
+MOV9213,INV5139,traslado,,30,Fecha inválida o vacía
+MOV9216,INV5093,ajuste,,46,Fecha inválida o vacía
+MOV9217,INV5107,entrada,,,"Fecha inválida o vacía, Cantidad de movimiento vacía"
+MOV9218,INV5032,traslado,,13,Fecha inválida o vacía
